@@ -1,6 +1,7 @@
 ## How to Run Code
 
-```pip uninstall tensorflow
+```
+pip uninstall tensorflow
 pip install tensorflow-gpu==1.14
 python train.py
 ```
